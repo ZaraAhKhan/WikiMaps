@@ -1,6 +1,39 @@
 WikiMaps
 =========
 
+## Contributors
+
+[<img src='https://img.shields.io/badge/Github-Zara-blue?style=flat-square&logo=github'>](https://github.com/ZaraAhKhan)
+[<img src='https://img.shields.io/badge/Github-David-blue?style=flat-square&logo=github'>](https://github.com/d33zhou)
+[<img src='https://img.shields.io/badge/Github-Chris-blue?style=flat-square&logo=github'>](https://github.com/chrislopesdev)
+
+## Overview
+
+The world is at your fingertips with WikiMaps! Create maps with points of interest around your city,
+region, or anywhere around the globe!
+Are you a foodie who wants to share the best places to eat around town? Or perhaps, a movie buff lookingto track down the filming locations of famous movie scenes?
+WikiMaps is a tool to help you create maps, mark pins on your points of interest, and share your
+collections with other users! Browse our collection of user-submitted maps and take a step towards your new adventure!
+
+## Final Product
+
+Home Page:
+![Home Page](./docs/screenshots/home_page.png)
+View Maps:
+![View Maps](./docs/screenshots/view_maps.gif)
+Map Page:
+![Map Page](./docs/screenshots/map_page.png)
+Create Maps:
+![Create Maps](./docs/screenshots/create_map.png)
+Add points:
+![Add points](./docs/screenshots/add_points.gif)
+Edit points:
+![Edit points](./docs/screenshots/edit_points.gif)
+Add and Remove favourite maps:
+![Add favourites](./docs/screenshots/add_favourites.gif)
+Search maps:
+![Add points](./docs/screenshots/search_maps.gif)
+
 ## Getting Started
 
 1. Create the `.env` by using `.env.example` as a reference: `cp .env.example .env`
@@ -35,8 +68,4 @@ WikiMaps
 ![](https://img.shields.io/badge/Language-SCSS-blue?style=flat-square&logo=sass) 
 ![](https://img.shields.io/badge/Library-jQuery-blue?style=flat-square&logo=jquery)
 
-## Team
 
-[<img src='https://img.shields.io/badge/Github-Zara-blue?style=flat-square&logo=github'>](https://github.com/ZaraAhKhan)
-[<img src='https://img.shields.io/badge/Github-David-blue?style=flat-square&logo=github'>](https://github.com/d33zhou)
-[<img src='https://img.shields.io/badge/Github-Chris-blue?style=flat-square&logo=github'>](https://github.com/chrislopesdev)
