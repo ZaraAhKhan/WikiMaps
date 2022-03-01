@@ -146,9 +146,9 @@ const mapsRouter = (db) => {
         });
       })
       .then(() => {
-        console.log('Save completed')
+        console.log('Save completed');
         res.send('All maps downloaded to /images/maps/...');
-      })
+      });
   });
 
   // GET /maps/ --> redirect to GET /maps/1 (page 1 search results default)
